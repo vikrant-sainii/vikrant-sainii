@@ -2,8 +2,7 @@
 
 
 **About Me:**
-
-🚀 Flutter Developer | 📌 Open to opportunities | DevOps Learner | 🧠 Competitive Programmer | 📱 Building Scalable Mobile Applications | 💻 Passionate about solving challenging problems
+📱 Flutter Developer | ☁️ DevOps Learner | 🧠 Competitive Programmer | 🚀 Building Scalable Mobile Applications
 
 
 ## 🌐 Connect with Me:
